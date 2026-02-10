@@ -1,0 +1,20 @@
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe.config
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.pdb
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.AssemblyReference.cache
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Properties.Resources.resources
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.GenerateResource.cache
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.exe
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.pdb
+C:\Users\Anthony Wernsing\Desktop\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.ClickerGame.resources
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe.config
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\bin\Debug\Clicker Game.pdb
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.AssemblyReference.cache
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.ClickerGame.resources
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Properties.Resources.resources
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.GenerateResource.cache
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.CoreCompileInputs.cache
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.exe
+E:\Coding\Clicker Game\Clicker Game\Clicker Game\obj\Debug\Clicker Game.pdb
